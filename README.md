@@ -33,3 +33,39 @@ Este projeto utiliza um `Makefile` para facilitar a compilação e execução. S
 3. Execute o comando abaixo:
    ```bash
    make executar
+   ```
+
+---
+
+## 🎮 Como Jogar
+
+- **Movimentação do personagem:**
+  - `W` – Andar para cima
+  - `A` – Andar para a esquerda
+  - `S` – Andar para baixo
+  - `D` – Andar para a direita
+
+- **Ações:**
+  - `Enter` – Disparar
+  - `Esc` – Sair do jogo
+  - Clique esquerdo do mouse – Interagir com menus
+
+- **Objetivo do jogo:**
+  Elimine os inimigos para ganhar pontos, avançar de fase e enfrentar o chefe final. Cuidado com os ataques inimigos, pois causam dano e reduzem sua vida.
+
+---
+
+## 📺 Gameplay
+
+Assista a uma demonstração do jogo no YouTube:  
+👉 [Clique aqui para ver a gameplay](https://youtu.be/XADYAIqkowQ)
+
+---
+
+## 📌 Observações
+
+Este projeto foi desenvolvido como parte da disciplina de Computação Gráfica 1 e tem fins educacionais.
+
+---
+
+🧡 Esperamos que se divirta jogando!
